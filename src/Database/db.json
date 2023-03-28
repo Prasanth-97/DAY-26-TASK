@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "sant",
+      "userName": "sanKaash",
+      "email": "abc@gmail.com",
+      "phone": "123456",
+      "id": 1
+    },
+    {
+      "name": "Ajith",
+      "userName": "AjithThala",
+      "email": "thala@gmail.com",
+      "phone": "9876543210",
+      "id": 2
+    },
+    {
+      "name": "ViratKholi",
+      "userName": "ViratKholi King",
+      "email": "abc@gmail.com",
+      "phone": "962945900",
+      "id": 3
+    }
+  ]
+}
